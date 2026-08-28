@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Gabriel Mukamba 👋
 
-<!--
-**gabrielmukamba/gabrielmukamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Civil Engineering student and aspiring software developer from Uganda.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in:
+
+- Python
+- C++
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Web Development
+
+## Languages
+
+- 🇬🇧 English
+- 🇫🇷 French
+- 🇹🇿 Swahili
+
+## Projects
+
+**Calculator App**
+A simple calculator application built with HTML, CSS and JavaScript.
+
+**Git Practice**
+A repository I created while learning Git commands, version control and GitHub workflows.
+
+## Portfolio
+
+My personal website: https://sites.google.com/view/gabrielmukambagm/home
+
+## Connect
+
+GitHub: https://github.com/gabrielmukamba
