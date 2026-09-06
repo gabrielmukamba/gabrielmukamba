@@ -7,7 +7,7 @@ Civil Engineering student and aspiring software developer from DR Congo🇨🇩 
 I'm currently developing my skills in:
 
 - Python
-- C++
+- C
 - HTML & CSS
 - JavaScript
 - Git & GitHub
