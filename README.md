@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Mukamba 👋
 
-Civil Engineering student and aspiring software developer from DR Congo🇨🇩 currently living in Uganda.
+Civil Engineering student and aspiring software developer from DR Congo currently living in Uganda.
 
 ## About Me
 
